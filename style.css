@@ -1,0 +1,13 @@
+.carousel-item img {
+    filter: brightness(60%);
+}
+.carousel-caption{
+  position: absolute;
+  top: 50%;
+}
+.icons{
+  color: gold;
+}
+.work{
+  background-color: #F4FAFD;
+}
